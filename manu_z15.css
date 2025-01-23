@@ -1,0 +1,16 @@
+/* -- Anton Manulik 2K/g1, 23.01.2025r. --*/
+/* Urodziny: 19.02.2008 */
+/* Numer Buta: 43 */
+/* <p> color={100+2,150+19,50+43}={102,169,93}system dziesiętny=>{66,A9,5D}system heksagonalny => #66A95D */
+/* <body> color={125+19,50+43,200+2}={144,93,202}=>{144/255*100,93/255*100,202/255*100} => (56%, 36%, 79%) */
+
+body {
+    color: rgb(56%, 36%, 79%);
+    font-size: 30pt;
+}
+
+p {
+    color: #66A95D;
+    font-size: 20pt;
+}
+
